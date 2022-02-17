@@ -1,4 +1,4 @@
-# For use with the Postman Strava Livestream on 2/27/22
+# For use with the Postman Strava Livestream on 2/17/22
 When setting up your Strava application, you will need to upload an icon. Feel free to use either of the images in this repo if you don't have one handy.  
 
 runningAstronaut.png:   
